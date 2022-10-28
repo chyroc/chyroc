@@ -44,7 +44,7 @@ func generateReadme(ctx context.Context, client *github.Client, userName string)
 
 	buf.WriteString("<table width=\"960px\">\n<tr>\n")
 	{
-		buf.WriteString("<td valign=\"top\" width=\"50%\">\n")
+		buf.WriteString("<td valign=\"top\" width=\"50%\">\n\n")
 		buf.WriteString("#### Recent Release\n\n")
 		for _, v := range releases {
 			buf.WriteString(fmt.Sprintf("* <a href='%s' target='_black'>%s</a> - %s\n", v.HtmlURL, v.Name, v.CreatedAt.Format("2006-01-02")))
@@ -52,7 +52,7 @@ func generateReadme(ctx context.Context, client *github.Client, userName string)
 		buf.WriteString("\n</td>\n")
 	}
 	{
-		buf.WriteString("<td valign=\"top\" width=\"50%\">\n")
+		buf.WriteString("<td valign=\"top\" width=\"50%\">\n\n")
 		buf.WriteString("#### Recent Star\n\n")
 		for _, v := range stars {
 			buf.WriteString(fmt.Sprintf("* <a href='https://github.com/%s' target='_black'>%s</a> - %s\n", v.FullName, v.FullName, v.CreatedAt.Format("2006-01-02")))
@@ -82,6 +82,9 @@ func listStar(ctx context.Context, client *github.Client, userName string) ([]*R
 			FullName:  *v.Repository.FullName,
 			CreatedAt: v.StarredAt.Time,
 		})
+		if len(res) == 5 {
+			return res, nil
+		}
 	}
 
 	return res, nil
@@ -106,6 +109,9 @@ func listRelease(ctx context.Context, client *github.Client, userName string) ([
 					_ = json.Unmarshal(*v.RawPayload, body)
 					if body.Action == "published" {
 						event = append(event, body.Release)
+						if len(event) == 5 {
+							return event, nil
+						}
 					}
 				}
 			default:

@@ -3,6 +3,7 @@
 <table width="960px">
 <tr>
 <td valign="top" width="50%">
+
 #### Recent Release
 
 * <a href='https://github.com/chyroc/lark/releases/tag/v0.0.98' target='_black'>release v0.0.98: add 45, fix 5, update96 api</a> - 2022-10-19
@@ -10,6 +11,7 @@
 
 </td>
 <td valign="top" width="50%">
+
 #### Recent Star
 
 * <a href='https://github.com/tw93/tw93' target='_black'>tw93/tw93</a> - 2022-10-18
