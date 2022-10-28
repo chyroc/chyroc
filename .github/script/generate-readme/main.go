@@ -7,7 +7,9 @@ import (
 	"github.com/chyroc/go-ptr"
 	"github.com/google/go-github/v48/github"
 	"golang.org/x/oauth2"
+	"io/ioutil"
 	"os"
+	"strings"
 	"time"
 )
 
@@ -17,27 +19,48 @@ func main() {
 		panic("GITHUB_TOKEN is not set")
 	}
 	ctx := context.Background()
-	ts := oauth2.StaticTokenSource(
-		&oauth2.Token{AccessToken: token},
-	)
-	tc := oauth2.NewClient(ctx, ts)
+	tc := oauth2.NewClient(ctx, oauth2.StaticTokenSource(&oauth2.Token{AccessToken: token}))
 	client := github.NewClient(tc)
 
-	releases, err := listRelease(ctx, client, "chyroc")
+	err := generateReadme(ctx, client, "chyroc")
+	if err != nil {
+		panic(err)
+	}
+}
+
+func generateReadme(ctx context.Context, client *github.Client, userName string) error {
+	releases, err := listRelease(ctx, client, userName)
 	if err != nil {
 		panic(fmt.Errorf("list release: %w", err))
 	}
-	for _, v := range releases {
-		fmt.Println(v.Name, v.HtmlURL, v.CreatedAt)
-	}
-
-	stars, err := listStar(ctx, client, "chyroc")
+	stars, err := listStar(ctx, client, userName)
 	if err != nil {
 		panic(fmt.Errorf("list star: %w", err))
 	}
-	for _, v := range stars {
-		fmt.Println(v.FullName, v.CreatedAt)
+
+	buf := new(strings.Builder)
+
+	buf.WriteString("## Hi 👋, I'm chyroc\n\n")
+
+	buf.WriteString("<table width=\"960px\">\n<tr>\n")
+	{
+		buf.WriteString("<td valign=\"top\" width=\"50%\">\n")
+		buf.WriteString("#### Recent Release\n\n")
+		for _, v := range releases {
+			buf.WriteString(fmt.Sprintf("* <a href='%s' target='_black'>%s</a> - %s\n", v.HtmlURL, v.Name, v.CreatedAt.Format("2006-01-02")))
+		}
+		buf.WriteString("\n</td>\n")
 	}
+	{
+		buf.WriteString("<td valign=\"top\" width=\"50%\">\n")
+		buf.WriteString("#### Recent Star\n\n")
+		for _, v := range stars {
+			buf.WriteString(fmt.Sprintf("* <a href='https://github.com/%s' target='_black'>%s</a> - %s\n", v.FullName, v.FullName, v.CreatedAt.Format("2006-01-02")))
+		}
+		buf.WriteString("\n</td>\n")
+	}
+
+	return ioutil.WriteFile("./README.md", []byte(buf.String()), 0644)
 }
 
 func listStar(ctx context.Context, client *github.Client, userName string) ([]*Repo, error) {
