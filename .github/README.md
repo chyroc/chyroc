@@ -6,6 +6,7 @@
 
 #### Recent Release
 
+* <a href='https://github.com/chyroc/lark/releases/tag/v0.0.99' target='_black'>Release v0.0.99: fix 1, add 2, remove 2, update 9</a> - 2022-10-31
 * <a href='https://github.com/chyroc/lark-hertz/releases/tag/v0.1.0' target='_black'>init lark callback for hertz</a> - 2022-10-28
 * <a href='https://github.com/chyroc/lark/releases/tag/v0.0.98' target='_black'>release v0.0.98: add 45, fix 5, update96 api</a> - 2022-10-19
 * <a href='https://github.com/chyroc/aliyundrive-cli/releases/tag/v0.13.0' target='_black'>2tv支持提示</a> - 2022-10-18
