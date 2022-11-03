@@ -171,7 +171,7 @@ func listReading() ([]*Reading, error) {
 		return nil, err
 	}
 	sort.Slice(resp.Items, func(i, j int) bool {
-		return resp.Items[i].DatePublished.Before(resp.Items[j].DatePublished)
+		return resp.Items[i].DatePublished.After(resp.Items[j].DatePublished)
 	})
 	if len(resp.Items) > 5 {
 		return resp.Items[:5], nil
