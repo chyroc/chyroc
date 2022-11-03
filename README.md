@@ -12,11 +12,11 @@
 
 #### Recent Reading
 
-* <a href='https://hackersandslackers.com/python-poetry-package-manager/' target='_black'>Package Python Projects the Proper Way with Poetry</a> - 2021-09-18
 * <a href='https://github.com/joelparkerhenderson/monorepo-vs-polyrepo' target='_black'>GitHub - joelparkerhenderson/monorepo-vs-polyrepo: Monorepo vs. polyrepo: architecture for source code management (SCM) version control systems (VCS)</a> - 2021-09-18
-* <a href='https://jonegil.github.io/gui-with-gio/' target='_black'>Overview - Gui with Gio</a> - 2021-09-18
 * <a href='https://colobu.com/2018/12/18/dive-into-sync-mutex/' target='_black'>sync.mutex 源代码分析</a> - 2021-09-18
-* <a href='https://hacker-recommended-books.vercel.app/' target='_black'>HackerNews Readings</a> - 2021-09-22
+* <a href='https://hackersandslackers.com/python-poetry-package-manager/' target='_black'>Package Python Projects the Proper Way with Poetry</a> - 2021-09-18
+* <a href='https://jonegil.github.io/gui-with-gio/' target='_black'>Overview - Gui with Gio</a> - 2021-09-18
+* <a href='https://www.infoq.cn/article/YTcVJ1qZ595B7CwpVfyK' target='_black'>10 个角度分析软件工程师应该知道的 100 件事-InfoQ</a> - 2021-09-22
 
 </td>
 </tr>
