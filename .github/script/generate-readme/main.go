@@ -8,7 +8,9 @@ import (
 	"github.com/google/go-github/v48/github"
 	"golang.org/x/oauth2"
 	"io/ioutil"
+	"net/http"
 	"os"
+	"sort"
 	"strings"
 	"time"
 )
@@ -37,27 +39,54 @@ func generateReadme(ctx context.Context, client *github.Client, userName string)
 	if err != nil {
 		panic(fmt.Errorf("list star: %w", err))
 	}
+	reading, err := listReading()
+	if err != nil {
+		panic(fmt.Errorf("list reading: %w", err))
+	}
 
 	buf := new(strings.Builder)
 
 	buf.WriteString("## Hi 👋, I'm chyroc\n\n")
 
-	buf.WriteString("<table width=\"960px\">\n<tr>\n")
+	buf.WriteString("<table width=\"960px\">\n")
+
 	{
-		buf.WriteString("<td valign=\"top\" width=\"50%\">\n\n")
-		buf.WriteString("#### Recent Release\n\n")
-		for _, v := range releases {
-			buf.WriteString(fmt.Sprintf("* <a href='%s' target='_black'>%s</a> - %s\n", v.HtmlURL, v.Name, v.CreatedAt.Format("2006-01-02")))
+		buf.WriteString("<tr>\n")
+		{
+			buf.WriteString("<td valign=\"top\" width=\"50%\">\n\n")
+			buf.WriteString("#### Weekly Language Stats\n\n")
+			buf.WriteString("![](./images/wakatime_weekly_language_stats.svg)")
+			buf.WriteString("\n</td>\n")
 		}
-		buf.WriteString("\n</td>\n")
+		{
+			buf.WriteString("<td valign=\"top\" width=\"50%\">\n\n")
+			buf.WriteString("#### Recent Reading\n\n")
+			for _, v := range reading {
+				buf.WriteString(fmt.Sprintf("* <a href='%s' target='_black'>%s</a> - %s\n", v.URL, v.Title, v.DatePublished.Format("2006-01-02")))
+			}
+			buf.WriteString("\n</td>\n")
+		}
+		buf.WriteString("</tr>\n")
 	}
 	{
-		buf.WriteString("<td valign=\"top\" width=\"50%\">\n\n")
-		buf.WriteString("#### Recent Star\n\n")
-		for _, v := range stars {
-			buf.WriteString(fmt.Sprintf("* <a href='https://github.com/%s' target='_black'>%s</a> - %s\n", v.FullName, v.FullName, v.CreatedAt.Format("2006-01-02")))
+		buf.WriteString("<tr>\n")
+		{
+			buf.WriteString("<td valign=\"top\" width=\"50%\">\n\n")
+			buf.WriteString("#### Recent Release\n\n")
+			for _, v := range releases {
+				buf.WriteString(fmt.Sprintf("* <a href='%s' target='_black'>%s</a> - %s\n", v.HtmlURL, v.Name, v.CreatedAt.Format("2006-01-02")))
+			}
+			buf.WriteString("\n</td>\n")
 		}
-		buf.WriteString("\n</td>\n")
+		{
+			buf.WriteString("<td valign=\"top\" width=\"50%\">\n\n")
+			buf.WriteString("#### Recent Star\n\n")
+			for _, v := range stars {
+				buf.WriteString(fmt.Sprintf("* <a href='https://github.com/%s' target='_black'>%s</a> - %s\n", v.FullName, v.FullName, v.CreatedAt.Format("2006-01-02")))
+			}
+			buf.WriteString("\n</td>\n")
+		}
+		buf.WriteString("</tr>\n")
 	}
 
 	return ioutil.WriteFile("./README.md", []byte(buf.String()), 0644)
@@ -115,7 +144,7 @@ func listRelease(ctx context.Context, client *github.Client, userName string) ([
 					}
 				}
 			default:
-				//fmt.Println(ptr.ValueString(v.Type))
+				// fmt.Println(ptr.ValueString(v.Type))
 			}
 		}
 		if resp.NextPage > page {
@@ -128,6 +157,27 @@ func listRelease(ctx context.Context, client *github.Client, userName string) ([
 	return event, nil
 }
 
+func listReading() ([]*Reading, error) {
+	res, err := http.Get("https://reading-list.chyroc.cn/rss.json")
+	if err != nil {
+		return nil, err
+	}
+	var resp struct {
+		Items []*Reading `json:"items"`
+	}
+	err = json.NewDecoder(res.Body).Decode(&resp)
+	if err != nil {
+		return nil, err
+	}
+	sort.Slice(resp.Items, func(i, j int) bool {
+		return resp.Items[i].DatePublished.Before(resp.Items[j].DatePublished)
+	})
+	if len(resp.Items) > 5 {
+		return resp.Items[:5], nil
+	}
+	return resp.Items, nil
+}
+
 type Release struct {
 	HtmlURL   string    `json:"html_url"`
 	ID        int       `json:"id"`
@@ -138,6 +188,14 @@ type Release struct {
 type Repo struct {
 	FullName  string    `json:"full_name"`
 	CreatedAt time.Time `json:"created_at"`
+}
+
+type Reading struct {
+	ID            string    `json:"id"`
+	URL           string    `json:"url"`
+	Title         string    `json:"title"`
+	DatePublished time.Time `json:"date_published"`
+	DateModified  time.Time `json:"date_modified"`
 }
 
 type releaseEventBody struct {
