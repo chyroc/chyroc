@@ -20,7 +20,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |-
-          cd .github && go build -o /tmp/generate ./script/generate-readme/main.go
+          ( cd .github && go build -o /tmp/generate ./script/generate-readme/main.go )
           /tmp/generate
           cat README.md
       - name: Commit and push if changed

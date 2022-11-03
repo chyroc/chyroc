@@ -88,6 +88,7 @@ func generateReadme(ctx context.Context, client *github.Client, userName string)
 		}
 		buf.WriteString("</tr>\n")
 	}
+	buf.WriteString("</table>\n")
 
 	return ioutil.WriteFile("./README.md", []byte(buf.String()), 0644)
 }
