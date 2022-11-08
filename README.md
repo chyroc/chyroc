@@ -12,12 +12,12 @@
 
 #### Recent Reading
 
+* <a href='https://mp.weixin.qq.com/s/5erBLSxZ0HLurrbne5V9kA' target='_black'>B站直播的自研P2P实践 | 助力S12英雄联盟总决赛</a> - 2022-11-08
 * <a href='https://github.com/xiaoluoboding/bookmark.style' target='_black'>GitHub - xiaoluoboding/bookmark.style: 🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.</a> - 2022-10-18
 * <a href='https://mtlynch.io/code-review-love/' target='_black'>How to Make Your Code Reviewer Fall in Love with You ·
 mtlynch.io</a> - 2022-10-18
 * <a href='https://mp.weixin.qq.com/s/ds6QkVrBwcurxp3RkvZe8Q' target='_black'>探索现代的移动网络</a> - 2022-10-18
 * <a href='https://www.v2ex.com/t/887582' target='_black'>拼多多是怎么做到分享的助力链接域名不是自己的呢？ - V2EX</a> - 2022-10-17
-* <a href='https://www.yuque.com/aceld/lfhu8y/rg6nsf' target='_black'>Easy搞定Golang设计模式 · 语雀</a> - 2022-10-17
 
 </td>
 </tr>
