@@ -37,11 +37,11 @@ mtlynch.io</a> - 2022-10-18
 
 #### Recent Star
 
+* <a href='https://github.com/tokio-rs/axum' target='_black'>tokio-rs/axum</a> - 2022-11-09
 * <a href='https://github.com/tw93/tw93' target='_black'>tw93/tw93</a> - 2022-10-18
 * <a href='https://github.com/sczhou/CodeFormer' target='_black'>sczhou/CodeFormer</a> - 2022-10-18
 * <a href='https://github.com/IceWhaleTech/CasaOS' target='_black'>IceWhaleTech/CasaOS</a> - 2022-10-13
 * <a href='https://github.com/Caldis/Mos' target='_black'>Caldis/Mos</a> - 2022-10-09
-* <a href='https://github.com/dongrixinyu/JioNLP' target='_black'>dongrixinyu/JioNLP</a> - 2022-09-30
 
 </td>
 </tr>
