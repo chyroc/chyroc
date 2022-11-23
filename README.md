@@ -26,11 +26,11 @@ mtlynch.io</a> - 2022-10-18
 
 #### Recent Release
 
+* <a href='https://github.com/chyroc/go-ptr/releases/tag/v1.7.0' target='_black'>v1.7.0: go-ptr 更新泛型实现</a> - 2022-11-23
 * <a href='https://github.com/chyroc/serve/releases/tag/v0.6.0' target='_black'>v0.6.0: upgrade dep to fix build</a> - 2022-11-16
 * <a href='https://github.com/chyroc/serve/releases/tag/v0.5.0' target='_black'>v0.5.0: upgrade dep to fix build</a> - 2022-11-16
 * <a href='https://github.com/chyroc/serve/releases/tag/v0.4.0' target='_black'>v0.4.0: upgrade dep to fix build</a> - 2022-11-16
 * <a href='https://github.com/chyroc/go-lark-bot/releases/tag/v0.1.0' target='_black'>v0.1.0: first release</a> - 2022-11-13
-* <a href='https://github.com/chyroc/lark/releases/tag/v0.0.100' target='_black'>release v0.0.100: fix UpdateMessageDelayReqCard</a> - 2022-11-01
 
 </td>
 <td valign="top" width="50%">
