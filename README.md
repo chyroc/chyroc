@@ -37,11 +37,11 @@ mtlynch.io</a> - 2022-10-18
 
 #### Recent Star
 
+* <a href='https://github.com/meterscao/Speechless' target='_black'>meterscao/Speechless</a> - 2022-11-30
 * <a href='https://github.com/muesli/duf' target='_black'>muesli/duf</a> - 2022-11-17
 * <a href='https://github.com/chbrown/macos-pasteboard' target='_black'>chbrown/macos-pasteboard</a> - 2022-11-16
 * <a href='https://github.com/cozodb/cozo' target='_black'>cozodb/cozo</a> - 2022-11-10
 * <a href='https://github.com/tokio-rs/axum' target='_black'>tokio-rs/axum</a> - 2022-11-09
-* <a href='https://github.com/tw93/tw93' target='_black'>tw93/tw93</a> - 2022-10-18
 
 </td>
 </tr>
