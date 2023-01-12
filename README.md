@@ -25,11 +25,11 @@
 
 #### Recent Release
 
+* <a href='https://github.com/chyroc/lark/releases/tag/v0.0.106' target='_black'>[lark] v0.0.106: no blocking callback</a> - 2023-01-12
 * <a href='https://github.com/chyroc/lark/releases/tag/v0.0.105' target='_black'>[lark] v0.0.105: add 10, update 6 api, and support send msg with uuid</a> - 2023-01-12
 * <a href='https://github.com/chyroc/go-feedbin/releases/tag/v0.4.0' target='_black'>[feedbin] v0.4.0: reading taggings api, get subscriptions params and request user agent header</a> - 2023-01-11
 * <a href='https://github.com/chyroc/lark/releases/tag/v0.0.104' target='_black'>[lark ] v0.0.104: add card element img_combination</a> - 2023-01-06
 * <a href='https://github.com/chyroc/lark/releases/tag/v0.0.103' target='_black'>[lark] v0.0.103: add 4, update 6 api( **break change** )</a> - 2023-01-06
-* <a href='https://github.com/chyroc/lark/releases/tag/v0.0.102' target='_black'>[lark] v0.0.102: add 24, fix 1, update 20</a> - 2022-12-30
 
 </td>
 <td valign="top" width="50%">
