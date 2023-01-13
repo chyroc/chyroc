@@ -12,11 +12,11 @@
 
 #### Recent Reading
 
+* <a href='https://mp.weixin.qq.com/s/AJ4IBgYJ-Mq9OSICG0hRCA' target='_black'>我的信息流 2023.1</a> - 2023-01-13
 * <a href='https://blog.cloudflare.com/the-state-of-http-in-2022/' target='_black'></a> - 2023-01-03
 * <a href='https://sspai.com/post/77549' target='_black'>行尽白云云里路，满身还带白云归：我的日本行经验分享 - 少数派</a> - 2023-01-03
 * <a href='https://keg.cs.tsinghua.edu.cn/codegeex/index_zh.html' target='_black'>CodeGeeX: 多语言代码生成模型</a> - 2022-11-14
 * <a href='https://keg.cs.tsinghua.edu.cn/' target='_black'>知识工程研究室 – Knowledge Engineering Group</a> - 2022-11-14
-* <a href='https://mp.weixin.qq.com/s/5erBLSxZ0HLurrbne5V9kA' target='_black'>B站直播的自研P2P实践 | 助力S12英雄联盟总决赛</a> - 2022-11-08
 
 </td>
 </tr>
