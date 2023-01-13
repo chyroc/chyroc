@@ -36,11 +36,11 @@
 
 #### Recent Star
 
+* <a href='https://github.com/cucumber/godog' target='_black'>cucumber/godog</a> - 2023-01-13
 * <a href='https://github.com/chyroc/lark' target='_black'>chyroc/lark</a> - 2023-01-10
 * <a href='https://github.com/werifu/keyboard-heatmap' target='_black'>werifu/keyboard-heatmap</a> - 2023-01-03
 * <a href='https://github.com/meterscao/Speechless' target='_black'>meterscao/Speechless</a> - 2022-11-30
 * <a href='https://github.com/muesli/duf' target='_black'>muesli/duf</a> - 2022-11-17
-* <a href='https://github.com/chbrown/macos-pasteboard' target='_black'>chbrown/macos-pasteboard</a> - 2022-11-16
 
 </td>
 </tr>
