@@ -36,11 +36,11 @@
 
 #### Recent Star
 
+* <a href='https://github.com/go-gorm/gormx' target='_black'>go-gorm/gormx</a> - 2023-02-03
 * <a href='https://github.com/evcc-io/evcc' target='_black'>evcc-io/evcc</a> - 2023-01-18
 * <a href='https://github.com/cucumber/godog' target='_black'>cucumber/godog</a> - 2023-01-13
 * <a href='https://github.com/chyroc/lark' target='_black'>chyroc/lark</a> - 2023-01-10
 * <a href='https://github.com/werifu/keyboard-heatmap' target='_black'>werifu/keyboard-heatmap</a> - 2023-01-03
-* <a href='https://github.com/meterscao/Speechless' target='_black'>meterscao/Speechless</a> - 2022-11-30
 
 </td>
 </tr>
