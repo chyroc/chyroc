@@ -36,11 +36,11 @@
 
 #### Recent Star
 
+* <a href='https://github.com/icloud-photos-downloader/icloud_photos_downloader' target='_black'>icloud-photos-downloader/icloud_photos_downloader</a> - 2023-02-11
 * <a href='https://github.com/chyroc/aliyun-ddns' target='_black'>chyroc/aliyun-ddns</a> - 2023-02-10
 * <a href='https://github.com/go-gorm/gormx' target='_black'>go-gorm/gormx</a> - 2023-02-03
 * <a href='https://github.com/evcc-io/evcc' target='_black'>evcc-io/evcc</a> - 2023-01-18
 * <a href='https://github.com/cucumber/godog' target='_black'>cucumber/godog</a> - 2023-01-13
-* <a href='https://github.com/chyroc/lark' target='_black'>chyroc/lark</a> - 2023-01-10
 
 </td>
 </tr>
