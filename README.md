@@ -36,11 +36,11 @@
 
 #### Recent Star
 
+* <a href='https://github.com/go-rod/rod' target='_black'>go-rod/rod</a> - 2023-02-13
 * <a href='https://github.com/chyroc/detect-ip' target='_black'>chyroc/detect-ip</a> - 2023-02-13
 * <a href='https://github.com/icloud-photos-downloader/icloud_photos_downloader' target='_black'>icloud-photos-downloader/icloud_photos_downloader</a> - 2023-02-11
 * <a href='https://github.com/chyroc/aliyun-ddns' target='_black'>chyroc/aliyun-ddns</a> - 2023-02-10
 * <a href='https://github.com/go-gorm/gormx' target='_black'>go-gorm/gormx</a> - 2023-02-03
-* <a href='https://github.com/evcc-io/evcc' target='_black'>evcc-io/evcc</a> - 2023-01-18
 
 </td>
 </tr>
