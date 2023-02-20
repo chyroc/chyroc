@@ -36,11 +36,11 @@
 
 #### Recent Star
 
+* <a href='https://github.com/immersive-translate/immersive-translate' target='_black'>immersive-translate/immersive-translate</a> - 2023-02-20
 * <a href='https://github.com/Nutlope/aicommits' target='_black'>Nutlope/aicommits</a> - 2023-02-17
 * <a href='https://github.com/canonical/multipass' target='_black'>canonical/multipass</a> - 2023-02-15
 * <a href='https://github.com/chyroc/icloudgo' target='_black'>chyroc/icloudgo</a> - 2023-02-15
 * <a href='https://github.com/mtlynch/picoshare' target='_black'>mtlynch/picoshare</a> - 2023-02-14
-* <a href='https://github.com/go-rod/rod' target='_black'>go-rod/rod</a> - 2023-02-13
 
 </td>
 </tr>
