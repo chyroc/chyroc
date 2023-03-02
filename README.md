@@ -25,11 +25,11 @@
 
 #### Recent Release
 
+* <a href='https://github.com/chyroc/icloudgo/releases/tag/v0.11.0' target='_black'>[icloudgo] v0.11.0: support support folder structure</a> - 2023-03-02
 * <a href='https://github.com/chyroc/icloudgo/releases/tag/v0.9.0' target='_black'>[icloudgo] v0.9.0: Use sqlite to record progress for continuous download</a> - 2023-02-26
 * <a href='https://github.com/chyroc/aliyun-ddns/releases/tag/v0.1.0' target='_black'>[aliyun-ddns] v0.1.0: first release</a> - 2023-02-11
 * <a href='https://github.com/chyroc/keyfile/releases/tag/v0.1.0' target='_black'>[keyfile] v0.1.0: first release, Keychain-based file encryption</a> - 2023-02-16
 * <a href='https://github.com/chyroc/lark/releases/tag/v0.0.106' target='_black'>[lark] v0.0.106: no blocking callback</a> - 2023-01-12
-* <a href='https://github.com/chyroc/lark/releases/tag/v0.0.105' target='_black'>[lark] v0.0.105: add 10, update 6 api, and support send msg with uuid</a> - 2023-01-12
 
 </td>
 <td valign="top" width="50%">
