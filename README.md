@@ -36,11 +36,11 @@
 
 #### Recent Star
 
+* <a href='https://github.com/web-infra-dev/rspack' target='_black'>web-infra-dev/rspack</a> - 2023-03-13
 * <a href='https://github.com/o2sh/onefetch' target='_black'>o2sh/onefetch</a> - 2023-03-02
 * <a href='https://github.com/glebarez/sqlite' target='_black'>glebarez/sqlite</a> - 2023-02-26
 * <a href='https://github.com/chyroc/lark' target='_black'>chyroc/lark</a> - 2023-02-21
 * <a href='https://github.com/rogpeppe/go-internal' target='_black'>rogpeppe/go-internal</a> - 2023-02-21
-* <a href='https://github.com/immersive-translate/immersive-translate' target='_black'>immersive-translate/immersive-translate</a> - 2023-02-20
 
 </td>
 </tr>
