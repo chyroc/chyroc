@@ -26,8 +26,6 @@
 #### Recent Release
 
 * <a href='https://github.com/chyroc/lark/releases/tag/v0.0.111' target='_black'>[lark ] v0.0.111: add 143, fix 3, update 59 apis</a> - 2023-07-03
-* <a href='https://github.com/chyroc/aliyun-ddns/releases/tag/v0.3.0' target='_black'>[aliyun-ddns] v0.3.0: docker build</a> - 2023-05-07
-* <a href='https://github.com/chyroc/aliyun-ddns/releases/tag/v0.2.0' target='_black'>[aliyun-ddns] v0.2.0: docker build</a> - 2023-05-07
 
 </td>
 <td valign="top" width="50%">
