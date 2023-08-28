@@ -32,11 +32,11 @@
 
 #### Recent Star
 
+* <a href='https://github.com/PlexPt/awesome-chatgpt-prompts-zh' target='_black'>PlexPt/awesome-chatgpt-prompts-zh</a> - 2023-08-28
 * <a href='https://github.com/andyzhshg/trojan-privoxy' target='_black'>andyzhshg/trojan-privoxy</a> - 2023-05-07
 * <a href='https://github.com/pterm/pterm' target='_black'>pterm/pterm</a> - 2023-03-21
 * <a href='https://github.com/droe/sslsplit' target='_black'>droe/sslsplit</a> - 2023-03-16
 * <a href='https://github.com/web-infra-dev/rspack' target='_black'>web-infra-dev/rspack</a> - 2023-03-13
-* <a href='https://github.com/o2sh/onefetch' target='_black'>o2sh/onefetch</a> - 2023-03-02
 
 </td>
 </tr>
