@@ -32,11 +32,11 @@
 
 #### Recent Star
 
+* <a href='https://github.com/LC044/WeChatMsg' target='_black'>LC044/WeChatMsg</a> - 2023-12-04
 * <a href='https://github.com/LouisShark/chatgpt_system_prompt' target='_black'>LouisShark/chatgpt_system_prompt</a> - 2023-11-30
 * <a href='https://github.com/THUDM/ChatGLM3' target='_black'>THUDM/ChatGLM3</a> - 2023-11-23
 * <a href='https://github.com/jmorganca/ollama' target='_black'>jmorganca/ollama</a> - 2023-11-23
 * <a href='https://github.com/cloudwego/fastpb' target='_black'>cloudwego/fastpb</a> - 2023-11-01
-* <a href='https://github.com/mooijtech/go-pst' target='_black'>mooijtech/go-pst</a> - 2023-09-25
 
 </td>
 </tr>
