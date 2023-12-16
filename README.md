@@ -32,11 +32,11 @@
 
 #### Recent Star
 
+* <a href='https://github.com/nextui-org/nextui' target='_black'>nextui-org/nextui</a> - 2023-12-16
 * <a href='https://github.com/asciinema/asciinema' target='_black'>asciinema/asciinema</a> - 2023-12-14
 * <a href='https://github.com/web-infra-dev/rspress' target='_black'>web-infra-dev/rspress</a> - 2023-12-12
 * <a href='https://github.com/langchain-ai/permchain' target='_black'>langchain-ai/permchain</a> - 2023-12-08
 * <a href='https://github.com/LC044/WeChatMsg' target='_black'>LC044/WeChatMsg</a> - 2023-12-04
-* <a href='https://github.com/LouisShark/chatgpt_system_prompt' target='_black'>LouisShark/chatgpt_system_prompt</a> - 2023-11-30
 
 </td>
 </tr>
