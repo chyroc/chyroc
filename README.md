@@ -32,11 +32,11 @@
 
 #### Recent Star
 
+* <a href='https://github.com/pydantic/FastUI' target='_black'>pydantic/FastUI</a> - 2023-12-19
+* <a href='https://github.com/mitsuhiko/rye' target='_black'>mitsuhiko/rye</a> - 2023-12-19
 * <a href='https://github.com/web-infra-dev/rsbuild' target='_black'>web-infra-dev/rsbuild</a> - 2023-12-16
 * <a href='https://github.com/nextui-org/nextui' target='_black'>nextui-org/nextui</a> - 2023-12-16
 * <a href='https://github.com/asciinema/asciinema' target='_black'>asciinema/asciinema</a> - 2023-12-14
-* <a href='https://github.com/web-infra-dev/rspress' target='_black'>web-infra-dev/rspress</a> - 2023-12-12
-* <a href='https://github.com/langchain-ai/permchain' target='_black'>langchain-ai/permchain</a> - 2023-12-08
 
 </td>
 </tr>
