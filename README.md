@@ -25,7 +25,6 @@
 
 #### Recent Release
 
-* <a href='https://github.com/chyroc/lark/releases/tag/v0.0.112' target='_black'>[lark] v0.0.112: add 22, fix 5, update 64 apis</a> - 2023-09-22
 
 </td>
 <td valign="top" width="50%">
