@@ -31,11 +31,11 @@
 
 #### Recent Star
 
+* <a href='https://github.com/Lakr233/BBackupp' target='_black'>Lakr233/BBackupp</a> - 2023-12-29
 * <a href='https://github.com/abi/screenshot-to-code' target='_black'>abi/screenshot-to-code</a> - 2023-12-21
 * <a href='https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn' target='_black'>ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn</a> - 2023-12-19
 * <a href='https://github.com/pydantic/FastUI' target='_black'>pydantic/FastUI</a> - 2023-12-19
 * <a href='https://github.com/mitsuhiko/rye' target='_black'>mitsuhiko/rye</a> - 2023-12-19
-* <a href='https://github.com/web-infra-dev/rsbuild' target='_black'>web-infra-dev/rsbuild</a> - 2023-12-16
 
 </td>
 </tr>
