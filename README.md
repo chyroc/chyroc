@@ -33,11 +33,11 @@
 
 #### Recent Star
 
+* <a href='https://github.com/isaced/V2exOS' target='_black'>isaced/V2exOS</a> - 2024-03-04
+* <a href='https://github.com/vsouza/awesome-ios' target='_black'>vsouza/awesome-ios</a> - 2024-03-04
 * <a href='https://github.com/zed-industries/zed' target='_black'>zed-industries/zed</a> - 2024-01-30
 * <a href='https://github.com/expr-lang/expr' target='_black'>expr-lang/expr</a> - 2024-01-08
 * <a href='https://github.com/Froser/Kiwi-Machine' target='_black'>Froser/Kiwi-Machine</a> - 2024-01-08
-* <a href='https://github.com/d5/tengo' target='_black'>d5/tengo</a> - 2024-01-02
-* <a href='https://github.com/Lakr233/BBackupp' target='_black'>Lakr233/BBackupp</a> - 2023-12-29
 
 </td>
 </tr>
