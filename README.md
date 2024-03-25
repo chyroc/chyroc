@@ -33,11 +33,11 @@
 
 #### Recent Star
 
+* <a href='https://github.com/OldPanda/Open-the-F-king-URL-Right-Now' target='_black'>OldPanda/Open-the-F-king-URL-Right-Now</a> - 2024-03-25
 * <a href='https://github.com/picocss/pico' target='_black'>picocss/pico</a> - 2024-03-25
 * <a href='https://github.com/choleraehyq/pid' target='_black'>choleraehyq/pid</a> - 2024-03-18
 * <a href='https://github.com/robatron/sudoku.js' target='_black'>robatron/sudoku.js</a> - 2024-03-05
 * <a href='https://github.com/isaced/V2exOS' target='_black'>isaced/V2exOS</a> - 2024-03-04
-* <a href='https://github.com/vsouza/awesome-ios' target='_black'>vsouza/awesome-ios</a> - 2024-03-04
 
 </td>
 </tr>
