@@ -33,11 +33,11 @@
 
 #### Recent Star
 
+* <a href='https://github.com/goghcrow/go-try' target='_black'>goghcrow/go-try</a> - 2024-03-27
 * <a href='https://github.com/lra/mackup' target='_black'>lra/mackup</a> - 2024-03-26
 * <a href='https://github.com/OldPanda/Open-the-F-king-URL-Right-Now' target='_black'>OldPanda/Open-the-F-king-URL-Right-Now</a> - 2024-03-25
 * <a href='https://github.com/picocss/pico' target='_black'>picocss/pico</a> - 2024-03-25
 * <a href='https://github.com/choleraehyq/pid' target='_black'>choleraehyq/pid</a> - 2024-03-18
-* <a href='https://github.com/robatron/sudoku.js' target='_black'>robatron/sudoku.js</a> - 2024-03-05
 
 </td>
 </tr>
