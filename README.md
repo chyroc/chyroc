@@ -25,8 +25,6 @@
 
 #### Recent Release
 
-* <a href='https://github.com/chyroc/lark/releases/tag/v0.0.113' target='_black'>[lark] v0.0.113: 4 fix, 111 feat, 71 update</a> - 2024-01-10
-* <a href='https://github.com/chyroc/lark/releases/tag/lark_ws/v0.0.1' target='_black'>[lark_ws] v0.0.1: websocket event</a> - 2024-01-10
 
 </td>
 <td valign="top" width="50%">
