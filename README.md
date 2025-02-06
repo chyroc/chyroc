@@ -25,17 +25,22 @@
 
 #### Recent Release
 
+* <a href='https://github.com/coze-dev/coze-oauth-quickstart/releases/tag/v0.9.0' target='_black'>v0.9.0</a> - 2025-02-05
+* <a href='https://github.com/coze-dev/coze-oauth-quickstart/releases/tag/v0.8.0' target='_black'>v0.8.0</a> - 2025-01-23
+* <a href='https://github.com/coze-dev/coze-oauth-quickstart/releases/tag/v0.7.0' target='_black'>v0.7.0</a> - 2025-01-23
+* <a href='https://github.com/coze-dev/coze-oauth-quickstart/releases/tag/v0.6.0' target='_black'>v0.6.0</a> - 2025-01-21
+* <a href='https://github.com/coze-dev/coze-oauth-quickstart/releases/tag/v0.5.0' target='_black'>v0.5.0</a> - 2025-01-21
 
 </td>
 <td valign="top" width="50%">
 
 #### Recent Star
 
-* <a href='https://github.com/goghcrow/go-try' target='_black'>goghcrow/go-try</a> - 2024-03-27
-* <a href='https://github.com/lra/mackup' target='_black'>lra/mackup</a> - 2024-03-26
-* <a href='https://github.com/OldPanda/Open-the-F-king-URL-Right-Now' target='_black'>OldPanda/Open-the-F-king-URL-Right-Now</a> - 2024-03-25
-* <a href='https://github.com/picocss/pico' target='_black'>picocss/pico</a> - 2024-03-25
-* <a href='https://github.com/choleraehyq/pid' target='_black'>choleraehyq/pid</a> - 2024-03-18
+* <a href='https://github.com/alienator88/Pearcleaner' target='_black'>alienator88/Pearcleaner</a> - 2025-02-05
+* <a href='https://github.com/chyroc/pip_depender' target='_black'>chyroc/pip_depender</a> - 2025-01-16
+* <a href='https://github.com/cloudwego/eino' target='_black'>cloudwego/eino</a> - 2025-01-15
+* <a href='https://github.com/python-websockets/websockets' target='_black'>python-websockets/websockets</a> - 2025-01-03
+* <a href='https://github.com/websocket-client/websocket-client' target='_black'>websocket-client/websocket-client</a> - 2025-01-03
 
 </td>
 </tr>
