@@ -23,7 +23,7 @@ jobs:
           ( cd .github && go build -o /tmp/generate ./script/generate-readme/main.go )
           /tmp/generate
           cat README.md
-      - name: Commit and push if changed
+      - name: Commit and Push
         run: |-
           git diff
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
