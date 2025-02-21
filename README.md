@@ -36,11 +36,11 @@
 
 #### Recent Star
 
+* <a href='https://github.com/hijiangtao/resume' target='_black'>hijiangtao/resume</a> - 2025-02-21
 * <a href='https://github.com/deepseek-ai/DeepSeek-R1' target='_black'>deepseek-ai/DeepSeek-R1</a> - 2025-02-07
 * <a href='https://github.com/alienator88/Pearcleaner' target='_black'>alienator88/Pearcleaner</a> - 2025-02-05
 * <a href='https://github.com/chyroc/pip_depender' target='_black'>chyroc/pip_depender</a> - 2025-01-16
 * <a href='https://github.com/cloudwego/eino' target='_black'>cloudwego/eino</a> - 2025-01-15
-* <a href='https://github.com/python-websockets/websockets' target='_black'>python-websockets/websockets</a> - 2025-01-03
 
 </td>
 </tr>
