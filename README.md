@@ -28,8 +28,6 @@
 * <a href='https://github.com/coze-dev/coze-oauth-quickstart/releases/tag/v0.10.3' target='_black'>v0.10.3</a> - 2025-02-07
 * <a href='https://github.com/coze-dev/coze-oauth-quickstart/releases/tag/v0.10.2' target='_black'>v0.10.2</a> - 2025-02-07
 * <a href='https://github.com/coze-dev/coze-oauth-quickstart/releases/tag/v0.9.0' target='_black'>v0.9.0</a> - 2025-02-05
-* <a href='https://github.com/coze-dev/coze-oauth-quickstart/releases/tag/v0.8.0' target='_black'>v0.8.0</a> - 2025-01-23
-* <a href='https://github.com/coze-dev/coze-oauth-quickstart/releases/tag/v0.7.0' target='_black'>v0.7.0</a> - 2025-01-23
 
 </td>
 <td valign="top" width="50%">
