@@ -34,11 +34,11 @@
 
 #### Recent Star
 
+* <a href='https://github.com/deepseek-ai/FlashMLA' target='_black'>deepseek-ai/FlashMLA</a> - 2025-02-25
 * <a href='https://github.com/utags/utags' target='_black'>utags/utags</a> - 2025-02-24
 * <a href='https://github.com/hijiangtao/resume' target='_black'>hijiangtao/resume</a> - 2025-02-21
 * <a href='https://github.com/deepseek-ai/DeepSeek-R1' target='_black'>deepseek-ai/DeepSeek-R1</a> - 2025-02-07
 * <a href='https://github.com/alienator88/Pearcleaner' target='_black'>alienator88/Pearcleaner</a> - 2025-02-05
-* <a href='https://github.com/chyroc/pip_depender' target='_black'>chyroc/pip_depender</a> - 2025-01-16
 
 </td>
 </tr>
