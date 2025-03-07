@@ -34,11 +34,11 @@
 
 #### Recent Star
 
+* <a href='https://github.com/warmcat/libwebsockets' target='_black'>warmcat/libwebsockets</a> - 2025-03-07
 * <a href='https://github.com/deepseek-ai/3FS' target='_black'>deepseek-ai/3FS</a> - 2025-02-28
 * <a href='https://github.com/deepseek-ai/DeepGEMM' target='_black'>deepseek-ai/DeepGEMM</a> - 2025-02-27
 * <a href='https://github.com/deepseek-ai/FlashMLA' target='_black'>deepseek-ai/FlashMLA</a> - 2025-02-25
 * <a href='https://github.com/utags/utags' target='_black'>utags/utags</a> - 2025-02-24
-* <a href='https://github.com/hijiangtao/resume' target='_black'>hijiangtao/resume</a> - 2025-02-21
 
 </td>
 </tr>
