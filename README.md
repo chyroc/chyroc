@@ -31,11 +31,11 @@
 
 #### Recent Star
 
+* <a href='https://github.com/ThinkInAIXYZ/deepchat' target='_black'>ThinkInAIXYZ/deepchat</a> - 2025-03-24
 * <a href='https://github.com/jizhuozhi/go-future' target='_black'>jizhuozhi/go-future</a> - 2025-03-19
 * <a href='https://github.com/air-verse/air' target='_black'>air-verse/air</a> - 2025-03-18
 * <a href='https://github.com/warmcat/libwebsockets' target='_black'>warmcat/libwebsockets</a> - 2025-03-07
 * <a href='https://github.com/deepseek-ai/3FS' target='_black'>deepseek-ai/3FS</a> - 2025-02-28
-* <a href='https://github.com/deepseek-ai/DeepGEMM' target='_black'>deepseek-ai/DeepGEMM</a> - 2025-02-27
 
 </td>
 </tr>
