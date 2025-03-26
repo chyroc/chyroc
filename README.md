@@ -25,6 +25,8 @@
 
 #### Recent Release
 
+* <a href='https://github.com/coze-dev/coze-mcp-server/releases/tag/v0.0.2' target='_black'>v0.0.2</a> - 2025-03-26
+* <a href='https://github.com/coze-dev/coze-mcp-server/releases/tag/v0.0.1' target='_black'>v0.0.1</a> - 2025-03-26
 
 </td>
 <td valign="top" width="50%">
