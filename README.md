@@ -31,11 +31,11 @@
 
 #### Recent Star
 
+* <a href='https://github.com/CancerGary/lark-url-preview-public-next' target='_black'>CancerGary/lark-url-preview-public-next</a> - 2025-05-14
 * <a href='https://github.com/typst/typst' target='_black'>typst/typst</a> - 2025-05-13
 * <a href='https://github.com/modelcontextprotocol/python-sdk' target='_black'>modelcontextprotocol/python-sdk</a> - 2025-03-24
 * <a href='https://github.com/ThinkInAIXYZ/deepchat' target='_black'>ThinkInAIXYZ/deepchat</a> - 2025-03-24
 * <a href='https://github.com/jizhuozhi/go-future' target='_black'>jizhuozhi/go-future</a> - 2025-03-19
-* <a href='https://github.com/air-verse/air' target='_black'>air-verse/air</a> - 2025-03-18
 
 </td>
 </tr>
