@@ -25,7 +25,6 @@
 
 #### Recent Release
 
-* <a href='https://github.com/coze-dev/coze-oauth-quickstart/releases/tag/v0.11.2' target='_black'>v0.11.2</a> - 2025-06-20
 
 </td>
 <td valign="top" width="50%">
